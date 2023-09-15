@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stepsprogress/static/css/main.40307b79.css",
+    "main.js": "/stepsprogress/static/js/main.e26a7795.js",
+    "static/js/787.d94bc3be.chunk.js": "/stepsprogress/static/js/787.d94bc3be.chunk.js",
+    "index.html": "/stepsprogress/index.html",
+    "main.40307b79.css.map": "/stepsprogress/static/css/main.40307b79.css.map",
+    "main.e26a7795.js.map": "/stepsprogress/static/js/main.e26a7795.js.map",
+    "787.d94bc3be.chunk.js.map": "/stepsprogress/static/js/787.d94bc3be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40307b79.css",
+    "static/js/main.e26a7795.js"
+  ]
+}
